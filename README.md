@@ -1,6 +1,14 @@
-# projects
-# There are 7 folders.
 
+# There are 7 folders.
+# Errors in Eclipse when importing an archieve file.
+        # A user should make  "Java Project" first to import a program.
+        # When a user imports an "archive file", the problem could be happened potentially.
+        # If an imported foler is generating in a project folder, the program will be not runnable.
+            # The error will be like "~N recent launches"
+            # in this case, just change the location of files in scr(which is inside of archive folder) to the most outside "src".
+            # if then, "(default package)" would be generated and moved files would be inside of it. 
+            # Then it will be runable.
+            
 
 # CSE215 / CSE222 / CSE224 , They are based on C.
 
