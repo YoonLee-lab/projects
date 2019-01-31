@@ -1,5 +1,4 @@
 
-# There are 7 folders.
 # Errors in Eclipse when importing an archieve file.
         # A user should make  "Java Project" first to import a program.
         # When a user imports an "archive file", the problem could be happened potentially.
@@ -34,11 +33,6 @@
       ## Ther is a folder (Labs 1-4)
             ## This is Lab reports and Raspberry pi was dealt with in each Lab.
             ## In the report, there are some codes and explanation of this.
-      
- # In PersonalProject
-      ## It is Java game. It is called Tic Tac Toe.
-      ## It is based on JPanel and JFrame.
-      ## "Tic Tac Toe" is easy to design if a user uses switch. But I used "Graphics"
       
       
   # ENGR 250 Digital Logic Design && ENGR 270 Digital System and Micro.
