@@ -39,7 +39,6 @@
       ## It is Java game. It is called Tic Tac Toe.
       ## It is based on JPanel and JFrame.
       ## "Tic Tac Toe" is easy to design if a user uses switch. But I used "Graphics"
-      ## I designed this program in Eclipse.
       
       
   # ENGR 250 Digital Logic Design && ENGR 270 Digital System and Micro.
