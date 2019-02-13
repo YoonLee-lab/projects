@@ -5,7 +5,7 @@
 using namespace std;
 
 
-	bool isValidUppercaseStateCode(string stateCode) // this code is given
+	bool isValidUppercaseStateCode(string stateCode)
 	{
     		const string codes =
       		  "AL.AK.AZ.AR.CA.CO.CT.DE.FL.GA.HI.ID.IL.IN.IA.KS.KY."
